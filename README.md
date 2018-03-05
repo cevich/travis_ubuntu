@@ -1,5 +1,5 @@
 # travis_ubuntu
-Automatic docker build image for running newer ubuntu SPCs on on travis
+Automatic docker build image for testing code in travis CI as a docker SPC.
 
 e.g. .travis.yml
 

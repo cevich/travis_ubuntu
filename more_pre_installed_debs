@@ -1,5 +1,6 @@
 build-essential
 cmake
+docker.io
 make
 pkg-config
 scons
